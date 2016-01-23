@@ -1,0 +1,49 @@
+/* CSS declarations */
+.hidden_div{
+	display:none;
+}
+
+.btn.btn-default {
+		margin-bottom: 0.5em;
+}
+
+a#login-name-link,
+a#login-sign-in-link {
+	text-decoration: inherit;
+	color:inherit;
+	font-size: 1.2em;
+}
+
+.rating-field {
+	font-size: 1.3em;
+	padding: 0.4em;
+	border-radius: 10px;
+	background-color: #bfb;
+}
+
+#signup {
+    padding: 12px;
+    float: left;
+    font-size: 20px;
+}
+#padded {
+    padding: 15px;
+}
+
+#heading {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#button123{
+    margin:auto;
+  display:block;
+}
+
+@media (max-width: 767px) {
+	#login-buttons.login-buttons-dropdown-align-right #login-dropdown-list {
+		left: inherit;
+		right: inherit;
+	}
+}
