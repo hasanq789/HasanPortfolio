@@ -5,6 +5,10 @@ This is my Portfolio. I'll be adding more stuff to it as I'm working on new proj
 
 Here are my live apps: Check them out!
 
+https://hasanqureshi.herokuapp.com/
+
+https://hasan_siteace.meteor.com/
+
 https://search-recipe-myapp.herokuapp.com/
 
 https://simple-to-do-lists.herokuapp.com/
