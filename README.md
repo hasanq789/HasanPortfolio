@@ -7,8 +7,6 @@ Here are my live apps: Check them out!
 
 https://hasanqureshi.herokuapp.com/
 
-https://hasan_siteace.meteor.com/
-
 https://search-recipe-myapp.herokuapp.com/
 
 https://simple-to-do-lists.herokuapp.com/
