@@ -11,9 +11,3 @@ https://search-recipe-myapp.herokuapp.com/
 
 https://simple-to-do-lists.herokuapp.com/
 
-[![Hiptest Status](https://hiptest.net/badges/test_run/40964)](https://hiptest.net/app/projects/29013/test-runs/40964)
-
-
-[![Hiptest Status](https://hiptest.net/badges/folder_snapshot/212373)](https://hiptest.net/app/projects/29013/test-runs/40964/folder-snapshots/212373)
-
-[![Hiptest Status](https://hiptest.net/badges/folder_snapshot/212373)](https://hiptest.net/app/projects/29013/test-runs/40964/folder-snapshots/212373)
