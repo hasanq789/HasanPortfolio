@@ -14,3 +14,4 @@ https://simple-to-do-lists.herokuapp.com/
 [![Hiptest Status](https://hiptest.net/badges/test_run/40964)](https://hiptest.net/app/projects/29013/test-runs/40964)
 
 
+[![Hiptest Status](https://hiptest.net/badges/test_run/40964)](https://hiptest.net/app/projects/29013/test-runs/40964)
