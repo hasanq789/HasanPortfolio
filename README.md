@@ -11,4 +11,6 @@ https://search-recipe-myapp.herokuapp.com/
 
 https://simple-to-do-lists.herokuapp.com/
 
-[![TeamCity (simple build status)](https://img.shields.io/teamcity/http/teamcity.jetbrains.com/s/bt345.svg?maxAge=2592000)](https://github.com/hasanq789/HasanPortfolio)
+[![Hiptest Status](https://hiptest.net/badges/test_run/40964)](https://hiptest.net/app/projects/29013/test-runs/40964)
+
+
